@@ -65,6 +65,12 @@ Este projeto está licenciado sob a Licença MIT: [License.txt].
 
 **Autor:** Arthur De Oliveira Mendonça 
 
-**Link GitHub:** [Link para meu GitHub](https://github.com/ImArthz)
-**Link Twitter:** [Link para meu Twitter](https://twitter.com/Im_Arthz)
-**Contato** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen)](https://api.whatsapp.com/send?phone=37988528423) [![Discord](https://img.shields.io/badge/Discord-Chat%20with%20Me-blue)](https://discordapp.com/users/imarthz)
+**Redes Sociais:**
+
+* [GitHub](https://github.com/ImArthz)
+* [Twitter](https://twitter.com/Im_Arthz)
+
+**Contato:**
+
+* [WhatsApp](https://api.whatsapp.com/send?phone=37988528423)
+* [Discord](https://discordapp.com/users/imarthz)

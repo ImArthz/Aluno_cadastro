@@ -93,7 +93,7 @@ int main() {
 
         switch (opcao) {
             case 1:{
-            std::string link = "https://github.com/ImArthz";
+            std::string link = "https://github.com/ImArthz/Aluno_cadastro";
             
                 
                     // Construct the command to open the URL in the default web browser
